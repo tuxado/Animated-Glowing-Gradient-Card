@@ -1,0 +1,21 @@
+{
+  "window.zoomLevel": 2,
+  "editor.wordWrap": "on",
+  "editor.autoIndent": "none",
+  "editor.formatOnType": false,
+  "editor.formatOnPaste": false,
+  "editor.formatOnSave": false,
+  "editor.autoClosingComments": "never",
+  "html.autoClosingTags": false,
+  "editor.autoClosingBrackets": "never",
+  "editor.autoClosingQuotes": "never",
+  "editor.quickSuggestions": {
+    "other": false,
+    "comments": false,
+    "strings": false
+  },
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.wordBasedSuggestions": "off",
+  "html.autoCreateQuotes": false
+}
